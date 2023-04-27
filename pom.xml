@@ -37,6 +37,13 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+    	<groupId>net.javaguides</groupId>
+    	<artifactId>
+    		registration-login-spring-boot-security-thymeleaf
+    	</artifactId>
+    	<version>0.0.1-SNAPSHOT</version>
+    </dependency>
   </dependencies>
   <build>
     <finalName>ToDo-APP</finalName>
